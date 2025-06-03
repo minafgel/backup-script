@@ -30,7 +30,7 @@ chmod +x backup_script.sh
 sudo ./backup_script.sh
 ```
 
- Output
+## Output
 * Example backup file: hostname_backup_2025-06-03_22-40-15.tar.gz
 * Stored in: /opt/backups/
 * Log file: /opt/backups/backup_log.txt
